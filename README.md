@@ -1,6 +1,6 @@
-This repo stores my dissertation, cv and relevant research materials. My peer-reviewed papers can be found in [Google Scholar](https://scholar.google.com/citations?user=bRYWd5AAAAAJ&hl=en). 
+This repo stores my dissertation on IC lasers, cv and relevant research materials. My peer-reviewed papers can be found in [Google Scholar](https://scholar.google.com/citations?user=bRYWd5AAAAAJ&hl=en). 
 
-In my previous life, I was a laser scientist. Now I've been repurposed as a data scientist or machine learning engineer. 
+Although I am not active in laser research, I still keep my pure interest in physics and algorithms. 
 
 
 
