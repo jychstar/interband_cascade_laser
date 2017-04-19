@@ -165,7 +165,7 @@ This is a very interesting question. I must confess I haven’t considered relat
 
 The base pulse IB is the heat source in the experiment. Although the probe pulse Ip will also cause some heating, the influence of this is sort of cancelled out in the measurement, because we find the relative temperature increase with respect to the reference probe pulse position at tp = 0.2 µs. Since the probe pulse is the same for all the measurements at different tp, its influence can be removed by simply subtraction. Fig. 2 is only a schematic of the measurement method. The result of the measurement is shown in Fig.3.
 
-Since temperature rise is exponential even if you assume an infinite speed of propagation of the heat signal, it seems to me that you are right in saying that the temperature rise must be extremely fast until the point where dissipation starts to actually occur. However, I have no idea how much or how fast this would be. 
+Since temperature rise is exponential even if you assume an infinite speed of propagation of the heat signal, it seems to me that **you are right in saying that the temperature rise must be extremely fast until the point where dissipation starts to actually occur**. However, I have no idea how much or how fast this would be. 
 
 Best regards,
 
