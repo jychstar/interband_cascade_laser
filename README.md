@@ -34,8 +34,17 @@ Nevertheless, it is still possible for me to come back when the time is right. *
 
 ![](https://pre00.deviantart.net/f227/th/pre/i/2012/318/5/b/the_big_bang_theory___smart_is_the_new_sexy_by_justcallmethedoctor-d5kyt5s.jpg)
 
+---
+
+## Before diving into a PhD program, read below:
+
+http://www.fast.ai/2018/08/27/grad-school/
+
+https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/
+
+<iframe src="//d3ly393cqi31mg.cloudfront.net/KiCif/1/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="548" height="400"></iframe>
 
 
- 
 
- 
+<iframe src="//d3ly393cqi31mg.cloudfront.net/wJ17I/2/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="548" height="557"></iframe>
+
